@@ -1,0 +1,12 @@
+Package: scVDJplot
+Type: Package
+Title: This package contain the codes used in "Single-cell Profiling Reveals Distinct Adaptive Immune Hallmarks in MDA5+ Dermatomyositis with Therapeutic Implications"
+Version: 0.1.0
+Date: 2022-3-20
+Author: ZechuanChen
+Maintainer: ZechuanChen<zcchen@ips.ac.cn>
+Description: This package contains the codes about single cell BCR and TCR analysis, which were used in "Single cell Profiling Reveals Distinct Adaptive Immune Hallmarks in MDA5 Dermatomyositis with Therapeutic Implications"
+License: GPL-3
+encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
